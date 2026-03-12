@@ -1,0 +1,17 @@
+pyproject.toml
+uv.lock
+*.pyc
+__pycache__
+env
+*.sqlite3
+.DS_Store
+staticfiles
+.idea
+ *.toml
+.python-version
+*.sqlite3*
+*.sqlite3-shm
+*sqlite3-wal
+*.log
+logs
+*.vscode
